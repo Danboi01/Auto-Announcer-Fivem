@@ -1,4 +1,6 @@
 Config = {
+    Prefix = "Atlas Development",
+
     Time = 5,  -- Time in minutes between each auto message
 
     Notify = 0,  -- Notification system to use: 0 = chat message, 1 = okokNotify, 2 = codem, 3 = mythic, 4 = ox_lib
